@@ -95,7 +95,7 @@ int main(void)
 
 Use the bonus files for the added features:
 ```bash
-cc main.c get_next_line_bonus.c get_next_line_utils_bonus.c-D BUFFER_SIZE=x
+cc main.c get_next_line_bonus.c get_next_line_utils_bonus.c -D BUFFER_SIZE=x
 ```
 
 ### Bonus Features
