@@ -106,4 +106,5 @@ cc main.c get_next_line_bonus.c -D BUFFER_SIZE=x
 ## Author
 - **Name:** Daniel Zamora
 - **GitHub:** [tekuron](https://github.com/tekuron)
+- **42 Intra:** [danzamor](https://profile-v3.intra.42.fr/users/danzamor)
 - **School:** 42
