@@ -55,7 +55,7 @@ int main(void)
 
 then run:
 ```bash
-cc main.c get_next_line.c -D BUFFER_SIZE=x
+cc main.c get_next_line.c get_next_line_utils.c -D BUFFER_SIZE=x
 ```
 replacing ``x`` with the desired buffer size.
 
@@ -95,7 +95,7 @@ int main(void)
 
 Use the bonus files for the added features:
 ```bash
-cc main.c get_next_line_bonus.c -D BUFFER_SIZE=x
+cc main.c get_next_line_bonus.c get_next_line_utils_bonus.c-D BUFFER_SIZE=x
 ```
 
 ### Bonus Features
