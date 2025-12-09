@@ -1,4 +1,6 @@
 # get_next_line
+[![Score](https://img.shields.io/badge/Score-125/100-blue)](https://profile-v3.intra.42.fr/users/danzamor)
+
 get_next_line function in C for the 42 curriculum, reading files line by line from a file descriptor with proper memory management and buffering.
 
 ---
@@ -6,7 +8,6 @@ get_next_line function in C for the 42 curriculum, reading files line by line fr
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
-- [Project Structure](#project-structure)
 - [Usage](#usage)
 - [Bonus Part](#bonus-part)
 - [Author](#author)
@@ -23,13 +24,6 @@ get_next_line includes the following core functionalities:
 - Handles arbitrary line lengths
 - Efficient buffer management using a defined BUFFER_SIZE
 - Proper memory allocation and deallocation to avoid leaks
-
-## Project Structure
-The repository is organized as follows:
-- get_next_line.c / get_next_line_bonus.c: main function implementations
-- get_next_line_utils.c / get_next_line_utils_bonus.c: utility functions
-- get_next_line.h / get_next_line_bonus.h: header files
-- file.txt: sample input file
 
 ## Usage
 To compile get_next_line, include the source and header files in your program:
