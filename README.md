@@ -1,5 +1,6 @@
 # get_next_line
-[![Score](https://img.shields.io/badge/Score-125/100-blue)](https://profile-v3.intra.42.fr/users/danzamor)
+![Language](https://img.shields.io/badge/Language-C-blue)
+![Score](https://img.shields.io/badge/Score-125%2F100-brightgreen)
 
 get_next_line function in C for the 42 curriculum, reading files line by line from a file descriptor with proper memory management and buffering.
 
